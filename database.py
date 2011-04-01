@@ -296,6 +296,31 @@ def AddEmailEmployerMapping (email, employer, end = nextyear):
     except KeyError:
         EmailToEmployer[email] = [(end, empl)]
 
+##!!wd!!
+FunkyToEmail = {
+    #
+    # Known corrupted addresses.
+    #
+    'bnemec <at': 'bnemec@ganssloser.com',
+    'ch.naveen.samsung.com': 'ch.naveen@samsung.com',
+    'graeme.russ at gmail.com': 'graeme.russ@gmail.com',
+    'h.rohit at samsung.com': 'h.rohit@samsung.com',
+    'hskinnemoen <at': 'hskinnemoen@atmel.com',
+    'kazuichi at fsi.co.jp': 'kazuichi@fsi.co.jp',
+    'notasas at': 'notasas@gmail.com',
+    'phdm at macqel.be': 'phdm@macqel.be',
+    'plagnioj <at': 'plagnioj@jcrosoft.com',
+    'plagnioj <at> jcrosoft.com': 'plagnioj@jcrosoft.com',
+    'plagnioj at': 'plagnioj@jcrosoft.com',
+    'richardretanubun at ruggedcom.com': 'richardretanubun@ruggedcom.com',
+    'scn1874 at yandex.ru': 'scn1874@yandex.ru',
+    'stelian <at': 'stelian@popies.net',
+    'steve.sakomanlinaro.org': 'steve.sakoman@linaro.org',
+    'tomasz.figa_at_gmail.com': 'tomasz.figa@gmail.com',
+    'w.wegner at astro-kom.de': 'w.wegner@astro-kom.de',
+};
+##!!wd!!
+
 def MapToEmployer (email, unknown = 0):
     # Somebody sometimes does s/@/ at /; let's fix it.
     email = email.lower ().replace (' at ', '@')
@@ -306,6 +331,14 @@ def MapToEmployer (email, unknown = 0):
     namedom = email.split ('@')
     if len (namedom) < 2:
         print 'Oops...funky email %s' % email
+        ##!!wd!!
+        try:
+            email = FunkyToEmail[email]
+            print ' ... fixed up to %s' % email
+            namedom = email.split ('@')
+        except KeyError:
+            return [(nextyear, GetEmployer ('Funky'))]
+        ##!!wd!!
         return [(nextyear, GetEmployer ('Funky'))]
     s = namedom[1].split ('.')
     for dots in range (len (s) - 2, -1, -1):

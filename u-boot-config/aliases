@@ -1,0 +1,21 @@
+#
+# This is the email aliases file, mapping secondary addresses
+# onto a single, canonical address.
+#
+akpm@osdl.org			akpm@linux-foundation.org
+alan@redhat.com			alan@lxorguk.ukuu.org.uk
+bzolnier@gmail.com		Bartlomiej.Zolnierkiewicz@gmail.com
+corbet@eklektix.com		corbet@lwn.net
+dbrownell@users.sourceforge.ent	david-b@pacbell.net
+dzu@				dzu@denx.de
+jsipek@fsl.cs.sunysb.edu	jsipek@cs.sunysb.edu
+kmpark@infradead.org		kyungmin.park@samsung.com
+mel@csn.ul.ie			mel@skynet.ie
+nickpiggin@yahoo.com.au		npiggin@suse.de
+olof@lixom.net			olof@austin.ibm.com
+stelian.pop@leadtechdesign.com	stelian@popies.net
+stroese@			sr@denx.de
+takata@linux-m32r.org		takata.hirokazu@renesas.com
+wdenk@				wd@denx.de
+wg@grandegger.com		wg@denx.de
+xyzzy@speakeasy.org		tpiepho@freescale.com
