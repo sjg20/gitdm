@@ -405,10 +405,23 @@ beckyb@kernel.crashing.org	Freescale
 # Brad Bozarth <brad@radiient.com>
 bflinux@yumbrad.com		Radiient Technologies
 
+# Bernie Thompson <bhthompson@chromium.org>
+bhthompson@google.com		Google, Inc.
+
+# Che-liang Chiou <clchiou@chromium.org>
+clchiou@chromium.org		Google, Inc.
+
+# Doug Anderson <dianders@chromium.org>
+dianders@google.com		Google, Inc.
+
 # Dirk Behme <dirk.behme@googlemail.com>
 dirk.behme@googlemail.com	Dirk Behme
 
-g.liakhovetski@gmx.de		DENX Software Engineering
+# Duncan Laurie <dlaurie@chromium.org>
+dlaurie@google.com		Google, Inc.
+
+# Gabe Black <gabeblack@google.com>
+gabeblack@chromium.org		Google, Inc.
 
 galak@kernel.crashing.org	Freescale
 
@@ -420,6 +433,9 @@ gvb.uboot@gmail.com		Custom IDEAS
 
 # Valeriy Glushkov <gvv@lstec.com>
 # => explicitly wants to be listed as "unknown"
+
+# Hung-Te Lin <hungte@chromium.org>
+hungte@google.com		Google, Inc.
 
 # Nobuhiro Iwamatsu <iwamatsu@nigauri.org>
 iwamatsu@nigauri.org		Nobuhiro Iwamatsu
@@ -447,16 +463,31 @@ menon.nishanth@gmail.com	Texas Instruments
 # Grazvydas Ignotas <notasas@gmail.com>
 notasas@gmail.com		Grazvydas Ignotas
 
+# Stefan Reinauer <reinauer@google.com>
+reinauer@google.com		Google, Inc.
+
 reinhard.thies@web.de		Cameron
 
 # Robin Getz <rgetz@blackfin.uclinux.org>
 rgetz@blackfin.uclinux.org	Analog Devices
 
+# Anton Staaf
+robotboy@chromium.org		Google, Inc.
+
 # Ron Madrid <ron_madrid@sbcglobal.net>
 ron_madrid@sbcglobal.net	Sheldon Instruments
 
+# Sean Paul <seanpaul@chromium.org>
+seanpaul@chromium.org		Google, Inc.
+
+# Luigi Semenzato <semenzato@chromium.org>
+semenzato@google.com		Google, Inc.
+
 # Shinya Kuribayashi <skuribay@ruby.dti.ne.jp>
 # => explicitly wants to be listed as "unknown"
+
+# Sonny Rao <sonnyrao@chromium.org>
+sonnyrao@chromium.org		Google, Inc.
 
 # Stelian Pop <stelian@popies.net>
 stelian@popies.net		Stelian Pop
@@ -470,10 +501,23 @@ smichak.uv@gmail.com		Micha Kalfon
 # Mike Frysinger <vapier@gentoo.org>
 vapier@gentoo.org		Analog Devices
 
+# Vadim Bendebury <vbendeb@chromium.org>
+vbendeb@chromium.org		Google, Inc.
+
+# Vincent Palatin <vpalatin@chromium.org>
+vpalatin@chromium.org		Google, Inc.
+
+# Tom Wai-Hong Tam <waihong@chromiumng@chromium.org>
+waihong@chromium.org		Google, Inc.
+
+# Bill Richardson <wfrichar@chromium.org>
+wfrichar@google.com		Google, Inc.
+
 # Wolfgang Grandegger
 wg@grandegger.com		DENX Software Engineering
 
 # Simon Glass
 sjg@chromium.org		Google, Inc.
-# Anton Staaf
-robotboy@chromium.org		Google, Inc.
+
+# Louis Yung-Chieh Lo <yjlou@chromium.org>
+# yjlou@google.com		Google, Inc.
