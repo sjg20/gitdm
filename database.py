@@ -318,6 +318,7 @@ FunkyToEmail = {
     'steve.sakomanlinaro.org': 'steve.sakoman@linaro.org',
     'tomasz.figa_at_gmail.com': 'tomasz.figa@gmail.com',
     'w.wegner at astro-kom.de': 'w.wegner@astro-kom.de',
+    'v-stehle <at': 'v-stehle@ti.com',
 };
 ##!!wd!!
 
