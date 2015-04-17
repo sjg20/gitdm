@@ -319,7 +319,9 @@ FunkyToEmail = {
     'tomasz.figa_at_gmail.com': 'tomasz.figa@gmail.com',
     'w.wegner at astro-kom.de': 'w.wegner@astro-kom.de',
     'v-stehle <at': 'v-stehle@ti.com',
+    'kotnes <at': 'kotnes@cisco.com',
 };
+#    'kotnes <at> cisco <dot> com': 'kotnes@cisco.com',
 ##!!wd!!
 
 def MapToEmployer (email, unknown = 0):
