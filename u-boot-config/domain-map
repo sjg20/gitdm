@@ -115,7 +115,7 @@ fastmail.fm		FastMail.FM
 feig.de			Feig Electronic
 fixstars.com		Fixstars Technologies
 free-electrons.com	Free Electrons
-freescale.com		Freescale
+freescale.com		NXP
 fujitsu.com		Fujitsu
 gaisler.com		Gaisler Research
 ganssloser.com		Ingenieurbuero Ganssloser
@@ -231,6 +231,7 @@ nuovasystems.com	Nuova Systems
 nuovations.com		Nuovation System Designs
 nvidia.com		NVidia
 nvtl.com		Novatel Wireless
+nxp.com			NXP
 obsidianresearch.com	Obsidian Research
 oce.com			OCE Technologies
 octant-fr.com		Octant Informatique
@@ -402,9 +403,9 @@ yahoo-inc.com		Yahoo
 # Atin Malaviya <atin.malaviya@gmail.com>
 atin.malaviya@gmail.co		Atin Malaviya
 
-b10812@lc1106.zin33.ap.freescale.net	Freescale
+b10812@lc1106.zin33.ap.freescale.net	NXP
 
-beckyb@kernel.crashing.org	Freescale
+beckyb@kernel.crashing.org	NXP
 
 # Brad Bozarth <brad@radiient.com>
 bflinux@yumbrad.com		Radiient Technologies
@@ -427,7 +428,7 @@ dlaurie@google.com		Google, Inc.
 # Gabe Black <gabeblack@google.com>
 gabeblack@chromium.org		Google, Inc.
 
-galak@kernel.crashing.org	Freescale
+galak@kernel.crashing.org	NXP
 
 # Graeme Russ <graeme.russ@gmail.com>
 graeme.russ@gmail.com		Graeme Russ
