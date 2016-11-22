@@ -12,7 +12,7 @@ advantechamt.com	Advantech
 aist.go.jp		National Institute of Advanced Industrial Science and Technology
 akamai.com		Akamai Technologies
 am.sony.com		Sony
-www.amarulasolutions.com	Amarula Solutions
+amarulasolutions.com	Amarula Solutions
 amcc.com		AMCC
 amd.com			AMD
 anagramm.de		Anagramm GmbH
@@ -344,6 +344,7 @@ ti.com			Texas Instruments
 til-technologies.fr	TIL Technologies
 tls.msk.ru		Telecom-Service
 toptica.com		TOPTICA Photonics
+toradex.com		Toradex
 toshiba.co.jp		Toshiba
 total-knowledge.com	Total Knowledge
 towertech.it		Tower Technologies
@@ -498,6 +499,9 @@ stelian@popies.net		Stelian Pop
 
 # Steve Sakoman <sakoman@gmail.com>
 sakoman@gmail.com		Sakoman Inc.
+
+# Sanchayan Maity <maitysanchayan@gmail.com>
+maitysanchayan@gmail.com	Toradex
 
 # Micha Kalfon <smichak.uv@gmail.com>
 smichak.uv@gmail.com		Micha Kalfon
