@@ -18,6 +18,7 @@ amd.com			AMD
 anagramm.de		Anagramm GmbH
 analog.com		Analog Devices
 android.com		Google LLC
+andestech.com		Andes Technology
 arastra.com		Arastra Inc
 areca.com.tw		Areca
 argos-messtechnik.de	Argos Meßtechnik GmbH
@@ -44,6 +45,7 @@ bluewatersys.com	Bluewater Systems
 boeing.com		Boeing
 bootlin.com		Bootlin
 boundarydevices.com	Boundary Devices
+bp.renesas.com		Renesas Electronics Corporation
 broadcom.com		Broadcom
 brontes3d.com		Brontes Technologies
 bt.com			BT Group
@@ -51,6 +53,7 @@ bull.net		Bull SAS
 bus-elektronik.de	BuS Elektronik
 calxeda.com		Calxeda
 cam.ac.uk		University of Cambridge
+canonical.com		Canonical Ltd.
 ccur.com		Concurrent Computer Corporation
 cdi.cz			CDI.CZ
 celestrius.com		Celestrius
@@ -58,6 +61,7 @@ celunite.com		Azingo
 centtech.com		Centaur Technology
 cesa.opbu.xerox.com	Xerox
 chelsio.com		Chelsio
+chromium.org		Google LLC
 cideas.com		Custom IDEAS
 cisco.com		Cisco
 citi.umich.edu		Univ. of Michigan CITI
@@ -78,6 +82,7 @@ cosmosbay.com		Cosmosbay Vectis
 cozybit.com		cozybit
 cray.com		Cray
 cse-semaphore.com	CSE Semaphore, Inc.
+csgroup.eu		CS Group
 csr.com			CSR
 cyberguard.com		Secure Computing
 cybernetics.com		Cybernetics
@@ -89,11 +94,13 @@ dell.com		Dell
 denx.de			DENX Software Engineering
 devicescape.com		Devicescape
 digi.com		Digi International
+dimonoff.com		Dimonoff inc.
 doredevelopment.dk	Dore Development
 dti2.net		DTI2 - Desarrollo de la tecnologia de las comunicaciones
 e-coninfotech.com	e-con Infotech
 ecitele.com		ECI Telecom
 edesix.com		Edesix Ltd
+edgeble.ai		Edgeble AI
 einstruction.com	eInstruction
 eke.fi			EKE-Electronics
 elandigitalsystems.com	Elan Digital Systems
@@ -119,10 +126,13 @@ feig.de			Feig Electronic
 fixstars.com		Fixstars Technologies
 free-electrons.com	Bootlin
 freescale.com		NXP
+foss.st.com		ST Microelectronics
+foundries.io		Foundries.io
 fujitsu.com		Fujitsu
 gaisler.com		Gaisler Research
 ganssloser.com		Ingenieurbuero Ganssloser
 garzik.org		Red Hat
+gateworks.com		Gateworks Corporation
 gdsys.cc		Guntermann & Drunck
 gdsys.de		Guntermann & Drunck
 ge.com			General Electric
@@ -140,6 +150,7 @@ hevs.ch			HES-SO Valais Wallis
 highpoint-tech.com	HighPoint Technologies
 hitachi.co.jp		Hitachi
 hitachi.com		Hitachi
+hitachienergy.com	Hitachi
 hitachisoft.jp		Hitachi
 hp.com			HP
 huawei.com		Huawei Technologies
@@ -164,10 +175,13 @@ jmicron.com		jmicron.com
 jp.fujitsu.com		Fujitsu
 juniper.net		Juniper Networks
 katalix.com		Katalix Systems
+kernel-space.org	kernelspace
 keymile.com		Keymile
 keyspan.com		InnoSys
+kwiboo.se		Kwiboo
 kiethp.com		Intel
 konsulko.com		Konsulko Group
+kontron.de		Kontron
 labxtechnologies.com	Lab X Technologies
 laptop.org		OLPC
 laurelnetworks.com	ECI Telecom
@@ -176,9 +190,11 @@ linaro.org		Linaro
 linutronix.de		linutronix
 linux-foundation.org	Linux Foundation
 linuxant.com		Linuxant
+linux.microsoft.com	Microsoft Corporation
 linx.net		London Internet Exchange
 lippert-at.de		LiPPERT Embedded Computers GmbH
 lippertembedded.de	LiPPERT Embedded Computers GmbH
+lionizers.com		Lionizers
 llnl.gov		Lawrence Livermore National Laboratory
 lnxi.com		Linux Networx
 logitech.com		Logitech
@@ -194,10 +210,14 @@ mandriva.com.br		Mandriva
 marvell.com		Marvell
 matrix-vision.de	Matrix Vision
 mediamatech.com		Mediama Technologies
+mediatek.com		MediaTek Inc.
 mellanox.co.il		Mellanox
 melware.de		Cytronics & Melware
+metanate.com		Metanate Ltd.
 mev.co.uk		MEV Limited
+microchip.com		Microchip Technology Inc.
 microgate.com		MicroGate Systems
+microsoft.com		Microsoft Corporation
 mimc.co.uk		Mercury IMC Ltd.
 mips.com		MIPS
 miraclelinux.com	Miracle Linux
@@ -269,6 +289,7 @@ phytec.de		Phytec
 pikatech.com		PIKA Technologies
 pikron.com		PiKRON s.r.o
 pmc-sierra.com		PMC-Sierra
+prevas.dk		Prevas
 prodrive.nl		Prodrive
 profusion.mobi		ProFUSION
 promise.com		Promise Technology
@@ -278,6 +299,7 @@ psyent.com		Psyent
 pwav.com		Powerwave Technologies
 qlogic.com		QLogic
 qumranet.com		Qumranet
+radxa.com		Radxa
 rdc.com.tw		RDC Semiconductor
 realtek.com.tw		Realtek
 reccoware.de		Reccoware Systems
@@ -299,7 +321,9 @@ samsung.com		Samsung
 sanpeople.com		SANPeople
 sanyo.co.in		Sanyo LSI Technology India
 savantav.com		Savant Systems
+sberdevices.ru		Sber Devices
 scram.de		scram! e.V.
+seco.com		SECO S.p.A.
 secretlab.ca		Secretlab
 securecomputing.com	Secure Computing
 semihalf.com		Semihalf Embedded Systems
@@ -323,6 +347,7 @@ southpole.se		South Pole AB
 spidernet.net		SpiderNet Services
 st.com			ST Microelectronics
 starentnetworks.com	Starent Networks
+starfivetech.com	Shanghai Saifang Technology Co., Ltd.
 steeleye.com		SteelEye
 stericsson.com		ST-Ericsson
 stlinux.com		ST Microelectronics
@@ -343,10 +368,13 @@ telargo.com		Telargo
 teleca.com		Teleca
 tensilica.com		Tensilica
 terascala.com		Terascala
+theobroma-systems.com	Theobroma Systems Design und
 thinktube.com		Thinktube
+thorsis.com		Thorsis Technologies GmbH
 thot-soft.com		Thot-Soft 2002
 ti.com			Texas Instruments
 til-technologies.fr	TIL Technologies
+tinylab.org		Taixiao Technology
 tls.msk.ru		Telecom-Service
 toptica.com		TOPTICA Photonics
 toradex.com		Toradex
@@ -359,6 +387,7 @@ tqs.de			TQ Systems
 transitive.com		Transitive
 transmode.com		Transmode Systems
 transmode.se		Transmode Systems
+traverse.com.au		Traverse Technologies
 tresys.com		Tresys
 trinnov.com		Trinnov Audio
 tripeaks.co.jp		Tripeaks
@@ -536,3 +565,12 @@ sjg@chromium.org		Google LLC
 
 # Louis Yung-Chieh Lo <yjlou@chromium.org>
 # yjlou@google.com		Google LLC
+
+# Rob Herring
+robh@kernel.org			ARM
+
+# Masahiro Yamada
+masahiroy@kernel.org		Canonical
+
+# Marek Vasut
+marek.vasut+renesas@mailbox.org	Renesas Electronics Corporation
